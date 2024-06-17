@@ -1,3 +1,4 @@
+<фрагмент_вставки_значка>
 # lab02
 so uuuhh like yeah
 this IS the readme... dot md... which means it's a Markdown file...
