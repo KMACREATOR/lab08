@@ -1,3 +1,9 @@
+services:
+        - docker<ESC>
+jVGdo
+script:
+        - docker build -t logger .<ESC>
+
 language: cpp
 
 script:
@@ -12,3 +18,4 @@ addons:
     packages:
       - cmake
       - cmake-data
+
